@@ -2,6 +2,15 @@
 NgSSCookie used to manage cookies in application which is developed using angular framework.
 - [NPM package](https://www.npmjs.com/package/ngsameera-cookie)
 - [GitHub Repository](https://github.com/sameerasuresh/ngsameera-cookie)
+## Content 
+ - [Installation](#installation)
+ - [Documentation](#documentation)
+	 - [Import and inject to file](#save-cookie)
+	 - [Save cookie](#save-cookie)
+	 - [Read cookie](#read-cookie)
+	 - [Update existing cookie](#update-existing-cookie)
+	 - [Delete cookie](#delete-cookie)
+ - [Creator](#creater)
 ## Installation
 
  - Add package using npm
