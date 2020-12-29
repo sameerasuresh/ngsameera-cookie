@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng-sscookie": [
+        "dist/ng-sscookie/ng-sscookie",
+        "dist/ng-sscookie"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

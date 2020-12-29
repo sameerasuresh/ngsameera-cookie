@@ -1,0 +1,14 @@
+{
+  "name": "ngsameera-cookie",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^9.1.13",
+    "@angular/core": "^9.1.13"
+  },
+  "author": {
+    "name": "B.W.Suresh Sameera",
+    "url": "https://www.npmjs.com/~sameerasuresh95"
+  },
+  "license": "ISC",
+  "keywords": ["ngss-cookie","angular coookie"]
+}
